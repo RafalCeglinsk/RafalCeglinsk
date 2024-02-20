@@ -4,7 +4,7 @@
 
 📘 Currently diving into the world of full-stack development to become an even better programmer.
 
-🚗 Outside of coding, you'll find me behind the wheel. I love listening to programming podcasts while driving.
+🚗 Outside of coding, you'll find me behind the wheel. I love listening to tech/criminal podcasts while driving.
 
 🥏 In my free time, I relax by playing frisbee, and in the evening, if it's rainy I immerse myself in a good fantasy book, if it's clear view i watch night sky.
 
