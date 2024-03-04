@@ -1,4 +1,4 @@
-👋 Hi there! I'm Rafał, currently a student at GOIT on the Full Stack Developer course.
+👋 Hi there! I'm Rafał, graduaded at GoIT on the Full Stack Developer course.
 
 🚀 I'm learning and growing every day! My skill set includes HTML5, CSS, JavaScript, React.js, and Node.js.
 
